@@ -45,8 +45,8 @@ namespace GeometryCocosSharp
                 var contentSearchPaths = new List<string>() { "Fonts", "Sounds" };
                 CCSizeI viewSize = gameView.ViewSize;
 
-                int width = 768;
-                int height = 1027;
+                int width = 720;
+                int height = 1280;
 
                 // Set world dimensions
                 gameView.DesignResolution = new CCSizeI(width, height);
